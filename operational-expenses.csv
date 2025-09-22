@@ -1,0 +1,18 @@
+Date,ExpenseCategory,Amount,SKU,Notes
+2024-08-01,Rent,2000,,warehouserent
+2024-08-01,Shipping,550,SKU125,shipping costs
+2024-08-01,salaries,5000,,staff salaries
+2024-08-02,utilities,300,,office utilities
+2024-08-03,Marketing,800,SKU123,email marketing
+2024-08-05,Software,150,,subscriptions
+2024-08-06,Shipping,600,SKU126,shipping costs
+22024-08-07,Office Supplies,100,,office items
+2024-08-10,Insurance,250,,business insurance
+2024-08-12,Repairs & Maintenance,120,,equipment maintenance
+2024-08-15,Marketing,700,SKU124,facebook marketing
+2024-08-18,Training,500,,employee training
+2024-08-20,Travel,300,,business travel expenses
+2024-08-22,Taxes,1000,,estimated tax payments
+2024-08-25,Marketing,500,SKU125,email marketing
+2024-08-28,utilities,320,,office utilities
+2024-08-30,Software,150,,software subscriptions
