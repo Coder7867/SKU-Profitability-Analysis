@@ -68,8 +68,8 @@ A professional PDF report was auto-generated summarizing:
 
 ## Key Business Insights
 
-- *High-margin SKUs* contribute disproportionately to profit — focus marketing efforts here.
-- *SKU002 & SKU005* showed poor profitability — may need price adjustments or discontinuation.
+- *High-margin SKUs* contribute disproportionately to profit : focus marketing efforts here.
+- *SKU002 & SKU005* showed poor profitability : may need price adjustments or discontinuation.
 - *Profit fluctuates monthly*, signaling potential seasonality or inventory issues.
 - Automated KPI summary helped *flag SKUs with <30% gross margin* for review.
 
