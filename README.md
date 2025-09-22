@@ -43,7 +43,7 @@ The analysis combines three key datasets:
 
 🔹 Top 5 SKUs by Total Profit
 
-![Bar Chart - Profit by SKU](Gross-Proit.png)
+![Bar Chart - Profit by SKU](Gross-Profit.png)
 
 ---
 
