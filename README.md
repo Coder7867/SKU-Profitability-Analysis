@@ -1,6 +1,6 @@
 # SKU Profitability Analysis
 
-*Objective*  
+## Objective 
 This project analyzes profitability at the SKU level by integrating sales, cost of goods sold (COGS), and operational expense data. It aims to help e-commerce businesses identify top-performing products, improve pricing strategies, and make better financial decisions.
 
 ---
@@ -43,7 +43,7 @@ The analysis combines three key datasets:
 
 🔹 Top 5 SKUs by Total Profit
 
-![Bar Chart - Profit by SKU](gross-profit.png)
+![Bar Chart - Profit by SKU](Gross-Proit.png)
 
 ---
 
