@@ -7,10 +7,10 @@ This project analyzes profitability at the SKU level by integrating sales, cost 
 
 ## Tools & Technologies Used
 
-- *Python (Pandas, NumPy)* – Data manipulation
-- *Matplotlib, Plotly* – Visualization
-- *FPDF* – PDF report generation
-- *Jupyter Notebook* – Interactive analysis
+- *Python (Pandas, NumPy)* : Data manipulation
+- *Matplotlib, Plotly* : Visualization
+- *FPDF* : PDF report generation
+- *Jupyter Notebook* : Interactive analysis
 
 ---
 
